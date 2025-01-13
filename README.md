@@ -8,12 +8,13 @@ If you don't want to decide which is the best, just take and use **[uBlock Origi
 [^2]: `ExtensionManifestV2Availability` policy is for **Google Chrome Enterprise** *(can be also enabled for regular google chrome)* which extends period of Manifest V2 usage.
 
 ## List of ad blockers
-| Ad blocker        | Link                                                      |
-|:------------------|:----------------------------------------------------------|
-| uBlock Origin     | **[uBlock Origin & Lite](docs/ublockOriginNLite.md)**     |
-| AdGuard AdBlocker | **[AdGuard AdBlocker](docs/adGuard.md)**                  |
-| AdBlock           | **[AdBlock](docs/adBlock.md)**                            |
-| Adblock Plus      | **[Adblock Plus](docs/adBlockPlus.md)**                   |
+
+| Ad blocker                                                                                                           | Link                                                      |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| <img src="icons/uBO.png" width=16 height=16> <img src="icons/uBOL.png" width=16 height=16> uBlock Origin             | **[uBlock Origin & Lite](docs/ublockOriginNLite.md)**     |
+| <img src="icons/adGuard.png" width=16 height=16> AdGuard AdBlocker                                                   | **[AdGuard AdBlocker](docs/adGuard.md)**                  |
+| <img src="icons/Adblock_logo.svg" width=16 height=16> AdBlock                                                        | **[AdBlock](docs/adBlock.md)**                            |
+| <img src="icons/Adblock_Plus_2014_Logo.svg" width=16 height=16> Adblock Plus                                         | **[Adblock Plus](docs/adBlockPlus.md)**                   |
 
 ## Contribution
 If you want to contribute to this project, look into **[CONTRIBUTING.md](dosc/CONTRIBUTING.md)**.
